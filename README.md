@@ -1,7 +1,7 @@
-Hi there, I'm Mark 👋
+Hi there, I'm Mark
 ---
 
-I am a software engineer working at [Bamboo](https://bambooengineering.io/) 🐼 in the fintech space.
+I am a software engineer working at [Bamboo](https://bambooengineering.io/) in the fintech space.
 
 I primarily work with the tech stack mentioned here: https://bambooengineering.io/our-technology-and-culture/ and aside from those technologies I try to keep an eye on emerging technoologies as they develop. Zig being an example of something I would like to delve into deeper and I look forward to seeing how it matures as a language.
 
